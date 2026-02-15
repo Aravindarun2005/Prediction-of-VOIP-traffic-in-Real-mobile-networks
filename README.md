@@ -137,4 +137,5 @@ This project demonstrates:
 Suitable for research projects, final-year engineering projects, and academic submissions.
 ## Author
 
-**Aravind J**
+**Aravind J
+aravindarunmdu@gmail.com
