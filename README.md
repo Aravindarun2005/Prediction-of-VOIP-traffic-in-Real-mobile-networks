@@ -138,5 +138,3 @@ Suitable for research projects, final-year engineering projects, and academic su
 ## Author
 
 **Aravind J
-
-aravindarunmdu@gmail.com
